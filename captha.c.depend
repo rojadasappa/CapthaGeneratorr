@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731029181 source:c:\users\roja\1si22cs149\captha.c\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
